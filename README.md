@@ -1,4 +1,4 @@
 # Tablas basica
- https://darioher.github.io/darioher.github.io/basica.html
+ https://darioher.github.io/clase-tablas/basica.html
  # Tabla mejorada
- https://darioher.github.io/darioher.github.io/mejorada.html
+ https://darioher.github.io/clase-tablas//mejorada.html
